@@ -2,6 +2,7 @@
 module.exports = function(eleventyConfig) {
 
     eleventyConfig.addPassthroughCopy("assets");
+    eleventyConfig.addPassthroughCopy("admin");
 
     return {
         passthroughFileCopy: true,
@@ -10,7 +11,7 @@ module.exports = function(eleventyConfig) {
         dir: {
             input: "src",
             output: "_site",
-            includes: "includes"
+            includes: "_includes"
         }
     }
 }
