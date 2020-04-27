@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bosslee/fernvale_food_rescue/issues"
   },
-  "homepage": "https://github.com/bosslee/fernvale_food_rescue#readme"
+  "homepage": "https://github.com/bosslee/fernvale_food_rescue#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  }
 }
