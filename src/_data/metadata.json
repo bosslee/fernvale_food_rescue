@@ -1,5 +1,74 @@
 {
-    "name1": "Bryan",
-    "name2": "Lee"
+    "head": {
+        "title": "Food Rescue Sengkang | Singapore"
+    },
+    "navigation": {
+        "title": "Food Rescue Sengkang",
+        "menu1": "about",
+        "menu2": "our rescues",
+        "menu3": "fun times",
+        "menu4": "contact"
+    },
+    "header": {
+        "title": "feed the people, not the bins",
+        "description": "Our initiative is called Food Rescue @ Sengkang. It is started in May 2019 to reduce food waste in Singapore by rescuing edible foods that are being thrown away, hence, the tagline “feed the people, not the bins”.",
+        "button": "Find Out More"
+    },
+    "call_to_action": {
+        "title": "About Us", 
+        "description1": "We noticed that there are lots of food waste everywhere in Singapore. To do our part in reducing food waste, we have decided to rescue these foods to feed the people instead of going to the bins. Initially, we started by giving out only to our fellow residents at Fernvale Link small amount of vegetables and fruits we rescued.", 
+        "description2": "Over time, as our initiative becomes more popular, more residents all over Sengkang and beyond joined our initiative. Currently, we have expanded our rescued foods to not only fruits and vegetables but breads and cakes as well on a regular basis, and, once in a while, include canned foods and chicken meats.",
+        "button": "join our efforts"
+    },
+    "efforts": {
+        "title": "Our efforts",
+        "effort_title1": "VEGGIE RESCUE",
+        "effort_title2": "FRIDGE RESTOCK",
+        "effort_title3": "FRUITS RESCUE",
+        "effort_title4": "Made with Love",
+        "effort_details1": "Details",
+        "effort_details2": "Details",
+        "effort_details3": "Details",
+        "effort_details4": "Details"
+    },
+    "fun_times": {
+        "fun_title1": "VEGGIE RESCUE",
+        "fun_title2": "FRIDGE RESTOCK",
+        "fun_title3": "FRUITS RESCUE",
+        "fun_title4": "Made with Love",
+        "fun_title5": "Made with Love",
+        "fun_title6": "Made with Love",
+        "fun_details1": "Details",
+        "fun_details2": "Details",
+        "fun_details3": "Details",
+        "fun_details4": "Details",
+        "fun_details5": "Details",
+        "fun_details6": "Details",
+        "image1": "/assets/img/portfolio/Artboard1.png",
+        "image2": "/assets/img/portfolio/Artboard2.png",
+        "image3": "/assets/img/portfolio/Artboard3.png",
+        "image4": "/assets/img/portfolio/Artboard4.png",
+        "image5": "/assets/img/portfolio/Artboard5.png",
+        "image6": "/assets/img/portfolio/Artboard6.png",
+        "url1": "#",
+        "url2": "#",
+        "url3": "#",
+        "url4": "#",
+        "url5": "#",
+        "url6": "#"
+    },
+    "aside": {
+        "title": "Join us on Facebook",
+        "url": "https://www.facebook.com/foodrescuesk",
+        "button": "Join Now"
+    },
+    "contact": {
+        "title": "Let's Get In Touch!",
+        "description": "Food Rescue Sengkang is a young initiative started by a few dedicated individuals who came together to do something about the absurd amount of food being thrown away every day. We love to hear from you and have more people join us on the efforts.",
+        "cta1": "Food Rescue SK",
+        "cta2": "Chat Room",
+        "cta3": "Facebook"
+    }
+
 }
   
