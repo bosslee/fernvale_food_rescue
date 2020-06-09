@@ -1,4 +1,4 @@
 ---
 layout: "layouts/base.liquid"
-title: "test"
+title: "Food Rescue"
 ---

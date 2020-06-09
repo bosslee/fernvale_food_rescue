@@ -3,7 +3,7 @@
         "title": "Food Rescue Sengkang | Singapore"
     },
     "navigation": {
-        "title": "Food Rescue Sengkang",
+        "title": "FRSK",
         "menu1": "about",
         "menu2": "our rescues",
         "menu3": "fun times",
@@ -11,7 +11,7 @@
     },
     "header": {
         "title": "feed the people, not the bins",
-        "description": "Our initiative is called Food Rescue @ Sengkang. It is started in May 2019 to reduce food waste in Singapore by rescuing edible foods that are being thrown away, hence, the tagline “feed the people, not the bins”.",
+        "description": "Our initiative is called Food Rescue @ Sengkang. It is started in May 2019 to reduce food waste in Singapore by rescuing edible foods that are being thrown away",
         "button": "Find Out More"
     },
     "call_to_action": {
@@ -22,9 +22,9 @@
     },
     "efforts": {
         "title": "Our efforts",
-        "effort_title1": "VEGGIE RESCUE",
-        "effort_title2": "FRIDGE RESTOCK",
-        "effort_title3": "FRUITS RESCUE",
+        "effort_title1": "Veggie & Fruits Rescue",
+        "effort_title2": "Community Fridge Restock",
+        "effort_title3": "Rental Flats Distribution",
         "effort_title4": "Made with Love",
         "effort_details1": "Details",
         "effort_details2": "Details",
@@ -64,9 +64,9 @@
     },
     "contact": {
         "title": "Let's Get In Touch!",
-        "description": "Food Rescue Sengkang is a young initiative started by a few dedicated individuals who came together to do something about the absurd amount of food being thrown away every day. We love to hear from you and have more people join us on the efforts.",
+        "description": "Food Rescue Sengkang is a young initiative started by Janet and Derek who came together to do something about the absurd amount of food being thrown away every day. We love to hear from you and have more people join us on the efforts.",
         "cta1": "Food Rescue SK",
-        "cta2": "Chat Room",
+        "cta2": "Email",
         "cta3": "Facebook"
     }
 
