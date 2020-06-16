@@ -6,17 +6,17 @@
         "title": "FRSK",
         "menu1": "about",
         "menu2": "our rescues",
-        "menu3": "fun times",
+        "menu3": "community",
         "menu4": "contact"
     },
     "header": {
         "title": "feed the people, not the bins",
-        "description": "Our initiative is called Food Rescue @ Sengkang. It is started in May 2019 by Janet and Derek to reduce food waste in Singapore by rescuing edible foods that are being thrown away",
+        "description": "Our initiative is called Food Rescue @ Sengkang. It is started by Janet & Derek in May 2019 to reduce food waste in Singapore by rescuing edible foods that are being thrown away",
         "button": "Find Out More"
     },
     "call_to_action": {
-        "title": "About Us", 
-        "description1": "We noticed that there are lots of food waste everywhere in Singapore. To do our part in reducing food waste, we have decided to rescue these foods to feed the people instead of going to the bins. Initially, we started by giving out only to our fellow residents at Fernvale Link small amount of vegetables and fruits we rescued.", 
+        "title": "About Us",
+        "description1": "We noticed that there are lots of food waste everywhere in Singapore. To do our part in reducing food waste, we have decided to rescue these foods to feed the people instead of going to the bins. Initially, we started by giving out only to our fellow residents at Fernvale Link small amount of vegetables and fruits we rescued.",
         "description2": "Over time, as our initiative becomes more popular, more residents all over Sengkang and beyond joined our initiative. Currently, we have expanded our rescued foods to not only fruits and vegetables but breads and cakes as well on a regular basis, and, once in a while, include canned foods and chicken meats.",
         "button": "join our efforts"
     },
@@ -71,4 +71,3 @@
     }
 
 }
-  
